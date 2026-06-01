@@ -3,7 +3,7 @@
  * 
  * Creates MadLibs objects with different templates and calls play() to test.
  * 
- * @author: Abdullah Zahir - Period 6 Lakind
+ * @author: Abdullah Zahir 
  * @version: 10/15/25
  */
 import java.util.Scanner;
